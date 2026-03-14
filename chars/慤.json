@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "慤",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "què",
     "ㄑㄩㄝˋ"
   ],
-  "mp3": [
-    "què.mp3",
-    "ㄑㄩㄝˋ.mp3"
+  "audios": [
+    "què",
+    "ㄑㄩㄝˋ"
   ]
 }

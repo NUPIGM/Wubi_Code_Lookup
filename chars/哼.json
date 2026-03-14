@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "KYBH",
-    "img": [
+    "imgs": [
       "K01",
       "Y06",
       "B09",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "KYBH",
-    "img": [
+    "imgs": [
       "K10",
       "Y14",
       "B16",
@@ -23,11 +23,21 @@
   "06": {
     "edition": "06",
     "code": "KYKB",
-    "img": [
+    "imgs": [
       "K10",
       "Y13",
       "K10",
       "B16"
     ]
-  }
+  },
+  "pinyin": [
+    "hēng",
+    "hng",
+    "ㄏㄥ"
+  ],
+  "audios": [
+    "hēng",
+    "hng",
+    "ㄏㄥ"
+  ]
 }

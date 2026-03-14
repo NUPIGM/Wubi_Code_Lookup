@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "YFD",
-    "img": [
+    "imgs": [
       "Y11",
       "F01",
       "D00"
@@ -11,7 +11,7 @@
   "98": {
     "edition": "98",
     "code": "OFD",
-    "img": [
+    "imgs": [
       "O16",
       "F10",
       "D00"
@@ -21,10 +21,18 @@
   "06": {
     "edition": "06",
     "code": "OFD",
-    "img": [
+    "imgs": [
       "O16",
       "F10",
       "D00"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

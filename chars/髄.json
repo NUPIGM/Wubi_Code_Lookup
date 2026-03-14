@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "髄",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "suí",
     "ㄙㄨㄟˊ"
   ],
-  "mp3": [
-    "suí.mp3",
-    "ㄙㄨㄟˊ.mp3"
+  "audios": [
+    "suí",
+    "ㄙㄨㄟˊ"
   ]
 }

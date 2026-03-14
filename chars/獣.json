@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "獣",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "shòu",
     "ㄕㄡˋ"
   ],
-  "mp3": [
-    "shòu.mp3",
-    "ㄕㄡˋ.mp3"
+  "audios": [
+    "shòu",
+    "ㄕㄡˋ"
   ]
 }

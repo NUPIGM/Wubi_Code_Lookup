@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "XCCS",
-    "img": [
+    "imgs": [
       "X05",
       "C01",
       "C01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "XCCS",
-    "img": [
+    "imgs": [
       "X13",
       "C10",
       "C10",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "XCCS",
-    "img": [
+    "imgs": [
       "X13",
       "C10",
       "C10",
       "S10"
     ]
-  }
+  },
+  "pinyin": [
+    "shuǎng",
+    "ㄕㄨㄤˇ"
+  ],
+  "audios": [
+    "shuǎng",
+    "ㄕㄨㄤˇ"
+  ]
 }

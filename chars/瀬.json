@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "瀬",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "lài",
     "ㄌㄞˋ"
   ],
-  "mp3": [
-    "lài.mp3",
-    "ㄌㄞˋ.mp3"
+  "audios": [
+    "lài",
+    "ㄌㄞˋ"
   ]
 }

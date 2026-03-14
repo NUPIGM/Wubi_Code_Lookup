@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "呪",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "zhòu",
     "ㄓㄡˋ"
   ],
-  "mp3": [
-    "zhòu.mp3",
-    "ㄓㄡˋ.mp3"
+  "audios": [
+    "zhòu",
+    "ㄓㄡˋ"
   ]
 }

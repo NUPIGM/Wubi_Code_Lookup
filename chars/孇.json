@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "VWYC",
-    "img": [
+    "imgs": [
       "V01",
       "W04",
       "Y07",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "VWYC",
-    "img": [
+    "imgs": [
       "V10",
       "W11",
       "Y17",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "VWYC",
-    "img": [
+    "imgs": [
       "V10",
       "W11",
       "Y17",
       "C10"
     ]
-  }
+  },
+  "pinyin": [
+    "shuāng",
+    "ㄕㄨㄤ"
+  ],
+  "audios": [
+    "shuāng",
+    "ㄕㄨㄤ"
+  ]
 }

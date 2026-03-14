@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "労",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "láo",
     "ㄌㄠˊ"
   ],
-  "mp3": [
-    "láo.mp3",
-    "ㄌㄠˊ.mp3"
+  "audios": [
+    "láo",
+    "ㄌㄠˊ"
   ]
 }

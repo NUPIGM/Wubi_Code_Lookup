@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "荘",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "zhuāng",
     "ㄓㄨㄤ"
   ],
-  "mp3": [
-    "zhuāng.mp3",
-    "ㄓㄨㄤ.mp3"
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
   ]
 }

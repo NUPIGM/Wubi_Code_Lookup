@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "辻",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "shí",
     "ㄕˊ"
   ],
-  "mp3": [
-    "shí.mp3",
-    "ㄕˊ.mp3"
+  "audios": [
+    "shí",
+    "ㄕˊ"
   ]
 }

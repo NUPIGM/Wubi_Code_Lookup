@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "嚢",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "náng",
     "ㄋㄤˊ"
   ],
-  "mp3": [
-    "náng.mp3",
-    "ㄋㄤˊ.mp3"
+  "audios": [
+    "náng",
+    "ㄋㄤˊ"
   ]
 }

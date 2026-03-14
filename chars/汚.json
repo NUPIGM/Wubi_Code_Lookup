@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "汚",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "wū",
     "ㄨ"
   ],
-  "mp3": [
-    "wū.mp3",
-    "ㄨ.mp3"
+  "audios": [
+    "wū",
+    "ㄨ"
   ]
 }

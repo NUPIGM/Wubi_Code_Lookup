@@ -2,18 +2,18 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "夻",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "cǎ",
@@ -21,10 +21,10 @@
     "gu",
     "ㄘㄚˇ"
   ],
-  "mp3": [
-    "cǎ.mp3",
-    "hwa.mp3",
-    "gu.mp3",
-    "ㄘㄚˇ.mp3"
+  "audios": [
+    "cǎ",
+    "hwa",
+    "gu",
+    "ㄘㄚˇ"
   ]
 }

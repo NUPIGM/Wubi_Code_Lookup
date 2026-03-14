@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "UFYE",
-    "img": [
+    "imgs": [
       "U08",
       "F02",
       "Y05",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "UFYE",
-    "img": [
+    "imgs": [
       "U14",
       "F11",
       "Y13",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "UFYE",
-    "img": [
+    "imgs": [
       "U14",
       "F11",
       "Y13",
       "E18"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

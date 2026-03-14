@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "SNHF",
-    "img": [
+    "imgs": [
       "S01",
       "N01",
       "H01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "SUFG",
-    "img": [
+    "imgs": [
       "S10",
       "U15",
       "F11",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "SNHF",
-    "img": [
+    "imgs": [
       "S10",
       "N41",
       "H01",
       "F11"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

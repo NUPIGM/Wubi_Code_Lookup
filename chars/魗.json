@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "魗",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "chǒu",
     "ㄔㄡˇ"
   ],
-  "mp3": [
-    "chǒu.mp3",
-    "ㄔㄡˇ.mp3"
+  "audios": [
+    "chǒu",
+    "ㄔㄡˇ"
   ]
 }

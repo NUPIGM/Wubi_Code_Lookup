@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "IFSH",
-    "img": [
+    "imgs": [
       "I05",
       "F09",
       "S01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "IFSH",
-    "img": [
+    "imgs": [
       "I01",
       "F16",
       "S10",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "IFSH",
-    "img": [
+    "imgs": [
       "I01",
       "F16",
       "S10",
       "H10"
     ]
-  }
+  },
+  "pinyin": [
+    "shuàng",
+    "ㄕㄨㄤˋ"
+  ],
+  "audios": [
+    "shuàng",
+    "ㄕㄨㄤˋ"
+  ]
 }

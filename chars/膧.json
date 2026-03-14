@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "MUUF",
-    "img": [
+    "imgs": [
       "M02",
       "U04",
       "U01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "MUUF",
-    "img": [
+    "imgs": [
       "M15",
       "U02",
       "U10",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "MUUF",
-    "img": [
+    "imgs": [
       "M15",
       "U02",
       "U10",
       "F10"
     ]
-  }
+  },
+  "pinyin": [
+    "chuáng",
+    "ㄔㄨㄤˊ"
+  ],
+  "audios": [
+    "chuáng",
+    "ㄔㄨㄤˊ"
+  ]
 }

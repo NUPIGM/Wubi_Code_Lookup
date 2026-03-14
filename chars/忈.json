@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "忈",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "rén",
     "ㄖㄣˊ"
   ],
-  "mp3": [
-    "rén.mp3",
-    "ㄖㄣˊ.mp3"
+  "audios": [
+    "rén",
+    "ㄖㄣˊ"
   ]
 }

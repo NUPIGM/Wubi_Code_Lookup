@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "専",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "zhuān",
     "ㄓㄨㄢ"
   ],
-  "mp3": [
-    "zhuān.mp3",
-    "ㄓㄨㄢ.mp3"
+  "audios": [
+    "zhuān",
+    "ㄓㄨㄢ"
   ]
 }

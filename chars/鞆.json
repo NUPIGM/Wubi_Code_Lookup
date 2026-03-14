@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "鞆",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "bǐng",
     "ㄅㄧㄥˇ"
   ],
-  "mp3": [
-    "bǐng.mp3",
-    "ㄅㄧㄥˇ.mp3"
+  "audios": [
+    "bǐng",
+    "ㄅㄧㄥˇ"
   ]
 }

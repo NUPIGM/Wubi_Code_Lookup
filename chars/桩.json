@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "SYFG",
-    "img": [
+    "imgs": [
       "S01",
       "Y11",
       "F01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "SOFG",
-    "img": [
+    "imgs": [
       "S10",
       "O16",
       "F10",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "SOFG",
-    "img": [
+    "imgs": [
       "S10",
       "O16",
       "F10",
       "G00"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

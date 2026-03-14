@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "勅",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "chì",
     "ㄔˋ"
   ],
-  "mp3": [
-    "chì.mp3",
-    "ㄔˋ.mp3"
+  "audios": [
+    "chì",
+    "ㄔˋ"
   ]
 }

@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "渉",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "shè",
     "ㄕㄜˋ"
   ],
-  "mp3": [
-    "shè.mp3",
-    "ㄕㄜˋ.mp3"
+  "audios": [
+    "shè",
+    "ㄕㄜˋ"
   ]
 }

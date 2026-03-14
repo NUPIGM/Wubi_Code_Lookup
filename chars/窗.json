@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "PWTQ",
-    "img": [
+    "imgs": [
       "P04",
       "W02",
       "T01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "PWTQ",
-    "img": [
+    "imgs": [
       "P13",
       "W13",
       "T01",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "PWTQ",
-    "img": [
+    "imgs": [
       "P13",
       "W13",
       "T01",
       "Q18"
     ]
-  }
+  },
+  "pinyin": [
+    "chuāng",
+    "ㄔㄨㄤ"
+  ],
+  "audios": [
+    "chuāng",
+    "ㄔㄨㄤ"
+  ]
 }

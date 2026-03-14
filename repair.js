@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 1. 设置你的数据目录
-const dataDir = 'wubi_data'; 
+const dataDir = 'chars'; 
 
 // 2. 递归处理 JSON 对象的函数
 function transformData(obj) {

@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "SDWV",
-    "img": [
+    "imgs": [
       "S01",
       "D03",
       "W01",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "SDWE",
-    "img": [
+    "imgs": [
       "S10",
       "D01",
       "W10",
@@ -23,11 +23,19 @@
   "06": {
     "edition": "06",
     "code": "SDWE",
-    "img": [
+    "imgs": [
       "S10",
       "D01",
       "W10",
       "E30"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

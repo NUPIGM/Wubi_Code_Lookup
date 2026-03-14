@@ -2,18 +2,18 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "喠",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "zhǒng",
@@ -21,10 +21,10 @@
     "ㄓㄨㄥˇ",
     "ㄔㄨㄤˊ"
   ],
-  "mp3": [
-    "zhǒng.mp3",
-    "chuáng.mp3",
-    "ㄓㄨㄥˇ.mp3",
-    "ㄔㄨㄤˊ.mp3"
+  "audios": [
+    "zhǒng",
+    "chuáng",
+    "ㄓㄨㄥˇ",
+    "ㄔㄨㄤˊ"
   ]
 }

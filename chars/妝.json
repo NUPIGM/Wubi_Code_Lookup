@@ -2,7 +2,7 @@
   "86": {
     "edition": "86",
     "code": "NHDV",
-    "img": [
+    "imgs": [
       "N01",
       "H01",
       "D10",
@@ -12,7 +12,7 @@
   "98": {
     "edition": "98",
     "code": "UVG",
-    "img": [
+    "imgs": [
       "U15",
       "V10",
       "G00"
@@ -22,11 +22,19 @@
   "06": {
     "edition": "06",
     "code": "NHDV",
-    "img": [
+    "imgs": [
       "N41",
       "H01",
       "D16",
       "V10"
     ]
-  }
+  },
+  "pinyin": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ],
+  "audios": [
+    "zhuāng",
+    "ㄓㄨㄤ"
+  ]
 }

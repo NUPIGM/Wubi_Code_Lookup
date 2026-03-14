@@ -2,25 +2,25 @@
   "86": {
     "edition": "86",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "98": {
     "edition": "98",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "word": "験",
   "06": {
     "edition": "06",
     "code": "",
-    "img": []
+    "imgs": []
   },
   "pinyin": [
     "yàn",
     "ㄧㄢˋ"
   ],
-  "mp3": [
-    "yàn.mp3",
-    "ㄧㄢˋ.mp3"
+  "audios": [
+    "yàn",
+    "ㄧㄢˋ"
   ]
 }
